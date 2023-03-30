@@ -1,0 +1,14 @@
+.bienvenida-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: flex-start;
+    padding: 0px;
+
+    position: absolute;
+    width: 60%;
+
+    left: 107.63px;
+    flex-wrap: wrap;
+    gap: 1rem;
+}

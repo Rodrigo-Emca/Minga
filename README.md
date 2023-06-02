@@ -1,1 +1,1 @@
-Minga es una app web creada para la lectura de mangas y comics. 
+MINGA is a website created for reading and enjoying manga. Users will be able to register, log in and read the manga they want. Also, if there are companies that want to post their products, they can do so, having access to edit and delete their manga.

@@ -1,1 +1,1 @@
-MINGA is a website created for reading and enjoying manga. Users will be able to register, log in and read the manga they want. Also, if there are companies that want to post their products, they can do so, having access to edit and delete their manga.
+MINGA is a website created for reading and enjoying manga. Users will be able to register, log in and read the manga they want. Also, if there are companies that want to post their products, they can do so, having access to edit and delete their mangas.
